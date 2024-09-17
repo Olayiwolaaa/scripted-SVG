@@ -1,4 +1,4 @@
-# HandwriteSVG
+# HandwriteSVG.
 
 **HandwriteSVG** is an SVG generator that creates custom handwritten text using pre-labeled character paths. The application introduces randomness in character selection and placement to simulate natural handwriting, ensuring each output looks slightly different even for the same input.
 
